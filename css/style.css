@@ -1,0 +1,17 @@
+body {
+  background:gray;
+}
+
+.intro{
+    background-color: bisque;
+    background-image: url("../beach.webp");
+   background-size: cover;
+   height: 300px;
+  
+
+}
+.hobby{
+  background-image: url("../new-york-sports.jpeg");
+  background-image: cover;
+  height: 500px;
+}
